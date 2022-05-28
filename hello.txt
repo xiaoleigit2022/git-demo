@@ -18,4 +18,4 @@ hello xiaolei! hello Git!
 hello xiaolei! hello Git!
 hello xiaolei! hello Git!
 hello xiaolei! hello Git!
-hello xiaolei! hello Git!
+hello xiaolei! hello Git! hot-fix test
